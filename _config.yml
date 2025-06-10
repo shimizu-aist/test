@@ -123,7 +123,7 @@ conference:
   # Main landing page
   main:
      logo:
-       img: 't3_mod.JPG.png'
+      # img: 't3_mod.JPG.png'
     #links:
       #- name: Program
       #  relative_url: /program/
