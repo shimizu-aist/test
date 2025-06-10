@@ -36,6 +36,11 @@ collections:
     permalink: /:collection/:title/
   venue:
     output: true
+    order:
+      - conference_site.md
+      - local_access.md
+      permalink: /:collection/:title/
+
 
 defaults:
   - scope:
