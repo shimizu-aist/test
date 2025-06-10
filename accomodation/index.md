@@ -8,14 +8,21 @@ layout: page
   flex-wrap: wrap;
   justify-content: space-between;
 }
+#.flex-text {
+#  flex: 1;
+#  min-width: 300px;
+#  padding-right: 20px;
+#}
+#.flex-map {
+#  flex: 1;
+#  min-width: 300px;
+#}
 .flex-text {
-  flex: 1;
-  min-width: 300px;
+  width: 50%;
   padding-right: 20px;
 }
 .flex-map {
-  flex: 1;
-  min-width: 300px;
+  width: 50%;
 }
 iframe {
   width: 100%;
