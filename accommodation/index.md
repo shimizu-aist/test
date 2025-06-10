@@ -17,8 +17,8 @@ If you have any questions or require further information, please contact the loc
     <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
       <a href="https://www.tsukuba.hoteljalcity.com/eng/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Hotel JAL City Tsukuba</a>
     </h3>
-    <p>Located approximately 800 meters (about an 11-minute walk) from Tsukuba Station on the Tsukuba Express Line, HOTEL JAL City Tsukuba offers convenient access for conference participants. The hotel is adjacent to the conference venue and is the closest accommodation option, with just a 3-minute walk to the venue.
-    </p>
+    <p>2-20-1 Takezono, Tsukuba, Ibaraki 305-0032, Japan</p>
+    <p>Located approximately 800 meters (about an 11-minute walk) from Tsukuba Station on the Tsukuba Express Line, HOTEL JAL City Tsukuba offers convenient access for conference participants. The hotel is adjacent to the conference venue and is the closest accommodation option, with just a 3-minute walk to the venue.</p>
   </div>
   <div style="width: 50%; box-sizing: border-box;">
     <iframe
@@ -37,12 +37,10 @@ If you have any questions or require further information, please contact the loc
 <!-- Hotel Nikko Tsukuba -->
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
-    <h3 style="font-size: 1.1em;">Hotel Nikko Tsukuba</h3>
-    <p>1-1364-1 Azuma, Tsukuba, Ibaraki 305-0031, Japan<br>
-      <a href="https://www.nikko-tsukuba.com/eng/" target="_blank" rel="noopener noreferrer">
-        https://www.nikko-tsukuba.com/eng/
-      </a>
-    </p>
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
+      <a href="https://www.nikko-tsukuba.com/eng/" target="_blank" rel="noopener noreferrer">Hotel Nikko Tsukuba</a>
+    </h3>
+    <p>1-1364-1 Azuma, Tsukuba, Ibaraki 305-0031, Japan</p>
     <p>Hotel Nikko Tsukuba is conveniently located near Tsukuba Station on the Tsukuba Express Line, and is approximately 950 meters (about a 13-minute walk) from the conference venue. It offers excellent accessibility for conference participants.
     </p>
   </div>
@@ -63,12 +61,10 @@ If you have any questions or require further information, please contact the loc
 <!-- Hotel Grand Shinonome -->
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
-    <h3 style="font-size: 1.1em;">Hotel Grand Shinonome</h3>
-    <p>488-1 Onozaki, Tsukuba, Ibaraki 305-0034, Japan<br>
-      <a href="https://www.hg-shinonome.co.jp/english/" target="_blank" rel="noopener noreferrer">
-        https://www.hg-shinonome.co.jp/english/
-      </a>
-    </p>
+    <h3 style="font-size: 1.1em;">
+      <a href="https://www.hg-shinonome.co.jp/english/" target="_blank" rel="noopener noreferrer">Hotel Grand Shinonome</a>
+    </h3>
+    <p>488-1 Onozaki, Tsukuba, Ibaraki 305-0034, Japan</p>
     <p>Hotel Grand Shinonome is located approximately 750 meters (about an 11-minute walk) from Tsukuba Station on the Tsukuba Express Line, and about 1.1 kilometers (approximately a 16-minute walk) from the conference venue. It offers good accessibility within walking distance of both the station and the venue.
     </p>
   </div>
