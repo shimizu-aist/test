@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-Description of the conference.
+Here is a description of the conference.
 
-Test page of the conference.
+This is a test page of the conference.
