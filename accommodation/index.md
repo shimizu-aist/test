@@ -15,9 +15,7 @@ If you have any questions or require further information, please contact the loc
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
     <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
-      <a href="https://www.tsukuba.hoteljalcity.com/eng/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">
-        Hotel JAL City Tsukuba
-      </a>
+      <a href="https://www.tsukuba.hoteljalcity.com/eng/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Hotel JAL City Tsukuba</a>
     </h3>
     <p>Located approximately 800 meters (about an 11-minute walk) from Tsukuba Station on the Tsukuba Express Line, HOTEL JAL City Tsukuba offers convenient access for conference participants. The hotel is adjacent to the conference venue and is the closest accommodation option, with just a 3-minute walk to the venue.
     </p>
