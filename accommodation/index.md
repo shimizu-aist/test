@@ -15,7 +15,9 @@ If you have any questions or require further information, please contact the loc
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
     <h3 style="font-size: 1.1em;">Hotel JAL City Tsukuba</h3>
-    <p>Description of this hotel.</p>
+    <p>2-20-1 Takezono, Tsukuba, Ibaraki 305-0032, Japan<br>
+      https://www.tsukuba.hoteljalcity.com/eng/<br>
+      電車の最寄駅はTXつくば駅. conference会場までは徒歩圏内で徒歩XX分.というかconference会場に隣接している.</p>
   </div>
   
   <div style="width: 50%; box-sizing: border-box;">
