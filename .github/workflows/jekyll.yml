@@ -43,6 +43,17 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
+        with:
+          ruby-version: '3.1'
+          bundler-cache: false # キャッシュは一旦無効にする（後で再有効化可能）
+      - name: Disable frozen mode and install dependencies
+        run: |
+          bundle config set frozen false
+          bundle install --jobs 4 --retry 3
+
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
