@@ -5,6 +5,7 @@ layout: page
 <style>
 .flex-container {
   display: flex;
+  flex-wrap: nowrap;
   justify-content: space-between;
   align-items: flex-start;
   max-width: 1000px;
@@ -21,7 +22,8 @@ layout: page
 #  min-width: 300px;
 #}
 .flex-text, .flex-map {
-  width: 48%;
+  width: 50%;
+  min-width: 400px;
   box-sizing: border-box;
 }
 iframe {
