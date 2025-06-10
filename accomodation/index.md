@@ -24,7 +24,9 @@ iframe {
 }
 </style>
 
-<div class="flex-container">
+
+<div class="flex-container" style="max-width: 100%; width: 100%;">
+＃<div class="flex-container">
   <div class="flex-text">
       <h3>Accomodation</h3>
       <p>This is a test.<br>
