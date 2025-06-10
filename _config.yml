@@ -1,7 +1,6 @@
 title: "My Conference"
 preposition: ''
-description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+description: "Welcome to my conference site"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
