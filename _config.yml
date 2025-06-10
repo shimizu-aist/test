@@ -58,6 +58,12 @@ defaults:
       type: rooms
     values:
       layout: room
+  - scope:
+      path: ""
+      type: venue
+    values:
+      layout: venue
+
 
 
 conference:
