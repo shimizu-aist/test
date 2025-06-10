@@ -17,7 +17,7 @@ If you have any questions or require further information, please contact the loc
     <h3 style="font-size: 1.1em;">Hotel JAL City Tsukuba</h3>
     <p>2-20-1 Takezono, Tsukuba, Ibaraki 305-0032, Japan<br>
       https://www.tsukuba.hoteljalcity.com/eng/<br>
-      電車の最寄駅はTXつくば駅. conference会場までは徒歩圏内で徒歩XX分.というかconference会場に隣接している.</p>
+      Located approximately 800 meters (about an 11-minute walk) from Tsukuba Station on the Tsukuba Express Line, HOTEL JAL City Tsukuba offers convenient access for conference participants. The hotel is adjacent to the conference venue and is the closest accommodation option, with just a 3-minute walk to the venue.</p>p
   </div>
   
   <div style="width: 50%; box-sizing: border-box;">
