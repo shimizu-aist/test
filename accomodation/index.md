@@ -26,11 +26,10 @@ iframe {
 
 <div class="flex-container">
   <div class="flex-text">
-    ### Accommodation
-
-    This is a test.  
-    こちらにホテルの説明文などを記載します。  
-    チェックイン時間、アクセス方法、周辺施設など。
+      <h3>Accomodation</h3>
+      <p>This is a test.<br>
+      ホテルの説明文。<br>
+      時間など。</p>
   </div>
 
   <div class="flex-map">
