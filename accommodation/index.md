@@ -41,8 +41,7 @@ If you have any questions or require further information, please contact the loc
       <a href="https://www.nikko-tsukuba.com/eng/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Hotel Nikko Tsukuba</a>
     </h3>
     <p>1-1364-1 Azuma, Tsukuba, Ibaraki 305-0031, Japan</p>
-    <p>Hotel Nikko Tsukuba is conveniently located near Tsukuba Station on the Tsukuba Express Line, and is approximately 950 meters (about a 13-minute walk) from the conference venue. It offers excellent accessibility for conference participants.
-    </p>
+    <p>Hotel Nikko Tsukuba is conveniently located near Tsukuba Station on the Tsukuba Express Line, and is approximately 950 meters (about a 13-minute walk) from the conference venue. It offers excellent accessibility for conference participants.</p>
   </div>
   <div style="width: 50%; box-sizing: border-box;">
     <iframe
