@@ -20,7 +20,7 @@ If you have any questions or require further information, please contact the loc
   
   <div style="width: 50%; box-sizing: border-box;">
     <iframe
-      src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3224.6720935337066!2d140.1135580124039!3d36.07710130800981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60220c8ea4013a57%3A0x21b227c28c042328!2z44Ob44OG44OrSkFM44K344OG44Kj44Gk44GP44Gw!5e0!3m2!1sja!2sjp!4v1749535503334!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3224.6720935337066!2d140.1135580124039!3d36.07710130800981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60220c8ea4013a57%3A0x21b227c28c042328!2z44Ob44OG44OrSkFM44K344OG44Kj44Gk44GP44Gw!5e0!3m2!1sja!2sjp!4v1749535503334!5m2!1sja!2sjp"
       width="100%"
       height="300"
       style="border:0;"
@@ -40,7 +40,7 @@ If you have any questions or require further information, please contact the loc
   
   <div style="width: 50%; box-sizing: border-box;">
     <iframe
-      src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3224.6720935337066!2d140.1135580124039!3d36.07710130800981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60220c8ea4013a57%3A0x21b227c28c042328!2z44Ob44OG44OrSkFM44K344OG44Kj44Gk44GP44Gw!5e0!3m2!1sja!2sjp!4v1749535503334!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3224.6720935337066!2d140.1135580124039!3d36.07710130800981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60220c8ea4013a57%3A0x21b227c28c042328!2z44Ob44OG44OrSkFM44K344OG44Kj44Gk44GP44Gw!5e0!3m2!1sja!2sjp!4v1749535503334!5m2!1sja!2sjp"
       width="100%"
       height="300"
       style="border:0;"
