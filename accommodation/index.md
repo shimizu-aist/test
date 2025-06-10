@@ -60,11 +60,11 @@ If you have any questions or require further information, please contact the loc
 <!-- Hotel Grand Shinonome -->
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
-    <h3 style="font-size: 1.1em;">
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
       <a href="https://www.hg-shinonome.co.jp/english/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Hotel Grand Shinonome</a>
     </h3>
-    <p>488-1 Onozaki, Tsukuba, Ibaraki 305-0034, Japan</p>
-    <p>Hotel Grand Shinonome is located approximately 750 meters (about an 11-minute walk) from Tsukuba Station on the Tsukuba Express Line, and about 1.1 kilometers (approximately a 16-minute walk) from the conference venue. It offers good accessibility within walking distance of both the station and the venue.
+    <p>488-1 Onozaki, Tsukuba, Ibaraki 305-0034, Japan</p>
+    <p>Hotel Grand Shinonome is located approximately 750 meters (about an 11-minute walk) from Tsukuba Station on the Tsukuba Express Line, and about 1.1 kilometers (approximately a 16-minute walk) from the conference venue. It offers good accessibility within walking distance of both the station and the venue.
     </p>
   </div>
   <div style="width: 50%; box-sizing: border-box;">
