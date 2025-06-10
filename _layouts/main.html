@@ -1,0 +1,41 @@
+{% include partials/header.html %}
+
+{% if page.top %}
+  <h2 class="text-break" style="color:red">{{ page.top }}</h2>
+{% endif %}
+{% if page.detail %}
+  <h4 class="mb-1 text-break" style="color:blue">{{ page.detail }}</h4>
+{% endif %}
+
+{% if page.image %}
+   <div class="grid gap-0">
+   <div class="p-0 g-col-12">
+     <img src="{{ page.image }}" class="w-100" alt="{{ page.title }}"/>
+  {% if page.image_description %}
+   <div class="p-0 g-col-12"><small>{{ page.image_description | markdownify }}</small></div>
+  {% endif %}
+   </div>
+{% endif %}
+
+{% if site.data.news %}
+<h3 class="text-break">What's New</h2>
+
+{% assign sorted_news = site.data.news | sort: "date" | reverse %}
+<div class="news-container mb-4 mt-3">
+  {% for post in sorted_news %}
+    <div class="news-item"><time datetime="{{ post.date }}" style="font-weight: bold;">{{ post.date }}: </time>{{ post.content }}</div>
+  {% endfor %}
+</div>
+
+{% endif %}
+
+
+{{ content }}
+
+{% if page.map %}
+  <div id="map" class="mt-4 mb-3"></div>
+{% endif %}
+
+
+
+{% include partials/footer.html %}
