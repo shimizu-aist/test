@@ -13,14 +13,10 @@ For plenary and invited speakers, as well as members of the organizing committee
 If you have any questions or require further information, please contact the local organizing committee.
 
 
-
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
-    <h3>Accommodation</h3>
-    <p>一般参加者の方々は、各自でホテルの手配をお願いいたします.<br>
-       ご参考に、以下に会議場周辺のホテル情報をお示しします.<br>
-       プレナリー、招待講演者、ならびに組織委員会の皆様には、コミッティーの方でホテルを手配しております.<br>
-       詳細につきましては、組織委員会までお問い合わせください.</p>
+    <h2>Accommodation</h2>
+    <p>Hotel JAL City Tsukuba</p>
   </div>
   
   <div style="width: 50%; box-sizing: border-box;">
