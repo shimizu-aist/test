@@ -11,7 +11,7 @@ For plenary and invited speakers, as well as members of the organizing committee
 If you have any questions or require further information, please contact the local organizing committee.
 
 
-# JAL
+<!-- JAL -->
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
     <h3 style="font-size: 1.1em;">Hotel JAL City Tsukuba</h3>
@@ -31,7 +31,7 @@ If you have any questions or require further information, please contact the loc
   </div>
 </div>
 
-# Nikko
+<!-- Nikko -->
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
     <h3 style="font-size: 1.1em;">Hotel Nikko Tsukuba</h3>
