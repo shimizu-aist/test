@@ -64,8 +64,7 @@ If you have any questions or require further information, please contact the loc
       <a href="https://www.hg-shinonome.co.jp/english/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Hotel Grand Shinonome</a>
     </h3>
     <p>488-1 Onozaki, Tsukuba, Ibaraki 305-0034, Japan</p>
-    <p>Hotel Grand Shinonome is located approximately 750 meters (about an 11-minute walk) from Tsukuba Station on the Tsukuba Express Line, and about 1.1 kilometers (approximately a 16-minute walk) from the conference venue. It offers good accessibility within walking distance of both the station and the venue.
-    </p>
+    <p>Hotel Grand Shinonome is located approximately 750 meters (about an 11-minute walk) from Tsukuba Station on the Tsukuba Express Line, and about 1.1 kilometers (approximately a 16-minute walk) from the conference venue. It offers good accessibility within walking distance of both the station and the venue.</p>
   </div>
   <div style="width: 50%; box-sizing: border-box;">
     <iframe
@@ -81,27 +80,27 @@ If you have any questions or require further information, please contact the loc
 </div>
 
 
+<!-- Daiwa Roynet Hotel TSUKUBA -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
+  <div style="width: 50%; box-sizing: border-box;">
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
+      <a href="https://www.daiwaroynet.jp/en/tsukuba/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Daiwa Roynet Hotel TSUKUBA</a>
+    </h3>
+    <p>1-5-7 Azuma, Tsukuba, Ibaraki 305-0031, Japan</p>
+    <p>Daiwa Roynet Hotel Tsukuba is ideally located just 150 meters (approximately a 2-minute walk) from Tsukuba Station on the Tsukuba Express Line, and about 1 kilometer (approximately a 14-minute walk) from the conference venue. The hotel offers excellent accessibility for conference participants.</p>
+  </div>
+  <div style="width: 50%; box-sizing: border-box;">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.0519039779483!2d140.11020472017577!3d36.08019712680229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60220c7d39ff3fcd%3A0x1d674847adea6e24!2z44OA44Kk44Ov44Ot44Kk44ON44OD44OI44Ob44OG44Or44Gk44GP44Gw!5e0!3m2!1sja!2sjp!4v1749540673969!5m2!1sja!2sjp"
+      width="100%"
+      height="250"
+      style="border:0;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+  </div>
+</div>
 
 
 
-
-
-
-
-### Accomodation
-
-This is a test.
-
-<iframe
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1217.6997729250338!2d140.1159676326583!3d36.0767719248965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60220c8dcd9f2eab%3A0x89ff3a3b446bb64f!2z44Gk44GP44Gw5Zu96Zqb5Lya6K2w5aC0!5e0!3m2!1sja!2sjp!4v1744288448388!5m2!1sja!2sjp"
-  width="600"
-  height="450"
-  style="border:0;"
-  allowfullscreen=""
-  loading="lazy"
-  referrerpolicy="no-referrer-when-downgrade">
-</iframe>
-
-
-
-  
