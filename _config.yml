@@ -1,7 +1,8 @@
-title: Conference 20202
+title: ASIA
 preposition: at
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  Welcome to the conference! <br> Oct. 27-29, 2025
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -11,6 +12,7 @@ theme: jekyll-theme-conference
 markdown: kramdown
 sass:
   style: compressed
+  quiet_deps: true
 
 # Additional exclude from processing
 exclude:
