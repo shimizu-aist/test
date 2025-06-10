@@ -2,6 +2,16 @@
 layout: page
 ---
 
+### Hotel Accommodation Information
+
+General participants are kindly requested to arrange their own accommodation as needed.
+For your reference, a list of hotels near the conference venue is provided below.
+
+For plenary and invited speakers, as well as members of the organizing committee, hotel reservations have been arranged by the local organizing committee.
+If you have any questions or require further information, please contact the local organizing committee.
+
+
+
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
     <h3>Accommodation</h3>
