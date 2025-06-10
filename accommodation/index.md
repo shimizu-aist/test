@@ -14,7 +14,7 @@ If you have any questions or require further information, please contact the loc
 <!-- Hotel JAL City Tsukuba -->
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
-    <h3 style="font-size: 1.1em;">
+    <h3 style="font-size: 1.1em; text-align: left;">
       <a href="https://www.tsukuba.hoteljalcity.com/eng/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
         Hotel JAL City Tsukuba
       </a>
