@@ -10,6 +10,32 @@
 
   <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
   <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
+  <hr>
+  <br>
+  <div class="container">
+    <p class="text-center">Contact email address: <span id="email-placeholder"></span></p>
+  </div>
 
+  <div class="container">
+    <p class="text-center">27-29 October 2025 <br>
+    Tsukuba International Congress Center, Tsukuba, Japan</p>
+  </div>
+
+  <script type="text/javascript">
+    // 分割しておいたメールアドレスのパーツ
+    var user = "asian26";
+    var domain = "ml.nims.go.jp";
+
+    // メールアドレスを復元
+    var email = user + "@" + domain;
+
+    // クリック可能なリンク（アンカータグ）を作成
+    var emailLink = document.createElement("a");
+    emailLink.href = "mailto:" + email;
+    emailLink.textContent = email;
+
+    // プレースホルダーにリンクを挿入
+    document.getElementById("email-placeholder").appendChild(emailLink);
+  </script>
 </body>
 </html>
