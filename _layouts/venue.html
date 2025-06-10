@@ -1,0 +1,56 @@
+{% include partials/header.html %}
+
+{% if page.title -%}
+  <h1 class="display-7 mb-5 text-break">{{ page.title }}</h1>
+{%- endif %}
+
+{% for entry in site.venue %}
+  {% if entry.location %} 
+  <!-- use jekyll-maps plugin, which requires Google API -->
+    <div class="row">
+      <div class="col-md-6">
+        {% if entry.title -%}
+          <h3 class="display-10 mb-3 text-break">{{ entry.title }}</h3>
+        {%- endif %}
+        {% if entry.content %}
+          <p>{{ entry.content }}</p>
+        {% endif %}
+      </div>
+      <div class="col-md-6">
+        <div class="mt-3 mb-3"> {% google_map %} </div>
+      </div>
+    </div>
+  {% elsif entry.iframe %}
+  <!-- use iframe (Google API not necessary) -->
+    <div class="row">
+      <div class="col-md-6">
+        {% if entry.title -%}
+          <h3 class="display-10 mb-3 text-break">{{ entry.title }}</h3>
+        {%- endif %}
+        {% if entry.content %}
+          <p>{{ entry.content }}</p>
+        {% endif %}
+      </div>
+      <div class="col-md-6">
+        <div class="mt-3 mb-3">
+          <iframe src="{{ entry.iframe.src }}" width="100%" height="{{ entry.iframe.height }}" frameborder="0" style="border:0;" allowfullscreen></iframe>
+        </div>
+      </div>
+
+    </div>
+  {% else %}
+    <div class="row">
+      <div class="col">
+        {% if entry.title -%}
+          <h3 class="display-10 mb-3 text-break">{{ entry.title }}</h3>
+        {%- endif %}
+        {% if entry.content %}
+          <p>{{ entry.content }}</p>
+        {% endif %}
+      </div>
+    </div>
+  {% endif %}
+  <hr>
+{% endfor %}
+
+{% include partials/footer.html %}
