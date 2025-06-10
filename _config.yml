@@ -97,6 +97,8 @@ conference:
         relative_url: /registration/
       - name: Venue
         relative_url: /venue/
+      - name: Accomodation
+        relative_url: /accomodation/
       - name: Committee and Sponsors
         relative_url: /committee/
       - name: History
