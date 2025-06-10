@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; max-width: 1000px; margin: 0 auto; gap: 0px;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 48%; box-sizing: border-box;">
     <h3>Accommodation</h3>
     <p>This is a test.<br>
