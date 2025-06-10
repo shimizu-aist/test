@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Hotel Accommodation Information
+### Accommodation Information
 
 **General participants** are kindly requested to arrange their own accommodation as needed.
 For your convenience, a list of recommended hotels located near the conference venue is provided below.
