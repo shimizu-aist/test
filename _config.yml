@@ -41,7 +41,6 @@ collections:
       - local_access.md
       permalink: /:collection/:title/
 
-
 defaults:
   - scope:
       path: ""
