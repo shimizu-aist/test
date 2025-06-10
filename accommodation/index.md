@@ -6,7 +6,7 @@ layout: page
 
 General participants are kindly requested to arrange their own accommodation as needed.
 
-For your reference, a list of hotels near the conference venue is provided below.
+For your convenience, a list of hotels located near the conference venue is provided below.
 
 For plenary and invited speakers, as well as members of the organizing committee, hotel reservations have been arranged by the local organizing committee.
 
