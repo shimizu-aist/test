@@ -7,6 +7,7 @@ layout: page
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  width: 100%;
 }
 #.flex-text {
 #  flex: 1;
@@ -20,9 +21,11 @@ layout: page
 .flex-text {
   width: 50%;
   padding-right: 20px;
+  box-sizing: border-box;
 }
 .flex-map {
   width: 50%;
+  box-sizing: border-box;
 }
 iframe {
   width: 100%;
