@@ -5,9 +5,11 @@ layout: page
 <style>
 .flex-container {
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
-  width: 100%;
+  align-items: flex-start;
+  max-width: 1000px;
+  margin: 0 auto;
+  gap: 20px;
 }
 #.flex-text {
 #  flex: 1;
@@ -18,13 +20,8 @@ layout: page
 #  flex: 1;
 #  min-width: 300px;
 #}
-.flex-text {
-  width: 50%;
-  padding-right: 20px;
-  box-sizing: border-box;
-}
-.flex-map {
-  width: 50%;
+.flex-text, .flex-map {
+  width: 48%;
   box-sizing: border-box;
 }
 iframe {
