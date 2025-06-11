@@ -10,8 +10,9 @@ Please note that this is not an exhaustive list; other accommodation options are
 
 For **plenary** and **invited speakers**, as well as **members of the organizing committee**, hotel reservations will be arranged by the local organizing committee.
 If you have any questions or require further information, please contact the local organizing committee.
-<br><br>
 
+
+<br><br>
 #### <span style="color: green;">Tsukuba Station Area</span>
 
 <!-- Hotel JAL City Tsukuba -->
@@ -106,6 +107,7 @@ If you have any questions or require further information, please contact the loc
 </div>
 
 
+<br><br>
 #### <span style="color: green;">Kenkyugakuen Station Area</span>
 
 <!-- Hotel Bestland -->
@@ -152,6 +154,32 @@ If you have any questions or require further information, please contact the loc
       </iframe>
   </div>
 </div>
+
+
+<!-- HOTEL MARK-1 TSUKUBA -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
+  <div style="width: 50%; box-sizing: border-box;">
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
+      <a href="https://mark-1.jp/tsukuba/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">HOTEL MARK-1 TSUKUBA</a>
+    </h3>
+    <p>5-13-5 Kenkyugakuen, Tsukuba, Ibaraki 305-0817, Japan</p>
+    <p>Toyoko Inn Kenkyu-gakuen Ekimae is one of the recommended hotels, conveniently located approximately 350 meters (about a 5-minute walk) from Kenkyugakuen Station on the Tsukuba Express Line, which is one stop from Tsukuba Station.</p>
+  </div>
+  <div style="width: 50%; box-sizing: border-box;">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2164.5204676565154!2d140.08178461531597!3d36.082834011291915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60220b96979057cd%3A0xe4007638a7bd7697!2z44Ob44OG44Or44Oe44O844Kv44Ov44OzIOOBpOOBj-OBsOeglOeptuWtpuWckg!5e0!3m2!1sja!2sjp!4v1749609418599!5m2!1sja!2sjp"
+      width="100%"
+      height="250"
+      style="border:0;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+  </div>
+</div>
+
+
+
 
 
 
