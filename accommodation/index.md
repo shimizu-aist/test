@@ -104,4 +104,27 @@ If you have any questions or require further information, please contact the loc
 </div>
 
 
+<!-- Hotel Bestland -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
+  <div style="width: 50%; box-sizing: border-box;">
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
+      <a href="https://go-hotel-bestland.reservation.jp/en" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Hotel Bestland</a>
+    </h3>
+    <p>5-8-4 Kenkyugakuen, Tsukuba, Ibaraki 305-0817, Japan</p>
+    <p>Hotel Bestland is one of the recommended hotels, conveniently located approximately 120 meters (about a 2-minute walk) from Kenkyugakuen Station on the Tsukuba Express Line, which is one stop from Tsukuba Station.</p>
+  </div>
+  <div style="width: 50%; box-sizing: border-box;">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6448.9073316650065!2d140.07592976701392!3d36.08242763215084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60220b960c9d2875%3A0xcab64a87ee64d8cc!2z44Ob44OG44OrIOODmeOCueODiOODqeODs-ODiQ!5e0!3m2!1sja!2sjp!4v1749607951758!5m2!1sja!2sjp"
+      width="100%"
+      height="250"
+      style="border:0;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+  </div>
+</div>
+
+
 
