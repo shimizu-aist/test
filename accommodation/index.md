@@ -9,7 +9,7 @@ For your convenience, a list of recommended hotels located near the conference v
 Please note that this is not an exhaustive list; other accommodation options are also available in the area.
 
 For **plenary** and **invited speakers**, as well as **members of the organizing committee**, hotel reservations will be arranged by the local organizing committee.
-If you have any questions or require further information, please contact the local organizing committee.
+If you have any questions or require further information, please contact the local organizing committee.<br>
 
 
 #### Tsukuba Station Area
