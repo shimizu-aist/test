@@ -193,6 +193,15 @@ If you have any questions or require further information, please contact the loc
 </div>
 
 
+<!-- APA Hotel Tsukubabampaku Kinenkoen-Ekimae -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
+  <div style="width: 100%; box-sizing: border-box;">
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
+      <a href="https://www3.apahotel.com/hotel/syutoken/ibaraki/tsukuba-bampaku-kinenkoen-ekimae/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">APA Hotel Tsukubabampaku Kinenkoen-Ekimae</a>
+    </h3>
+    <p>4383 Shimana, Tsukuba, Ibaraki 300-2655, Japan</p>
+  </div>
+</div>
 
 
 
