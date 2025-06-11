@@ -179,6 +179,19 @@ If you have any questions or require further information, please contact the loc
 </div>
 
 
+<br><br>
+#### <span style="color: green;">Additional Hotel Information</span>
+
+<!-- Tsukuba Daily Inn -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
+  <div style="width: 100%; box-sizing: border-box;">
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
+      <a href="https://www.55-hotels.com/tsukuba-dailyinn" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Tsukuba Daily Inn</a>
+    </h3>
+    <p>1-12-4 Sengen, Tsukuba, Ibaraki 305-0047, Japan</p>
+  </div>
+</div>
+
 
 
 
