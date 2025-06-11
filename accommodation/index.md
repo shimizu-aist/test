@@ -204,5 +204,15 @@ If you have any questions or require further information, please contact the loc
 </div>
 
 
+<!-- HOTEL ROUTE-INN Grand MORIYA EKIMAE -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
+  <div style="width: 100%; box-sizing: border-box;">
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
+      <a href="https://www.route-inn.co.jp.e.ut.hp.transer.com/language/hotel_list/ibaraki/index_hotel_id_735/?utm_source=google&utm_medium=gbp&utm_campaign=web&_ga=2.143558710.2068569390.1749610278-1216469828.1749610278" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">HOTEL ROUTE-INN Grand MORIYA EKIMAE</a>
+    </h3>
+    <p>2-17-8 Chuo, Moriya, Ibaraki 302-0115, Japan</p>
+  </div>
+</div>
+
 
 
