@@ -12,6 +12,8 @@ For **plenary** and **invited speakers**, as well as **members of the organizing
 If you have any questions or require further information, please contact the local organizing committee.
 
 
+#### Tsukuba Station Area
+
 <!-- Hotel JAL City Tsukuba -->
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
@@ -104,6 +106,8 @@ If you have any questions or require further information, please contact the loc
 </div>
 
 
+#### Kenkyugakuen Station Area
+
 <!-- Hotel Bestland -->
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
   <div style="width: 50%; box-sizing: border-box;">
@@ -125,6 +129,30 @@ If you have any questions or require further information, please contact the loc
       </iframe>
   </div>
 </div>
+
+
+<!-- Toyoko Inn Kenkyu-gakuen Ekimae -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
+  <div style="width: 50%; box-sizing: border-box;">
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
+      <a href="https://www.toyoko-inn.com/eng/search/detail/00228/?utm_source=google&utm_medium=mybusiness&utm_campaign=gt_web228" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Toyoko Inn Kenkyu-gakuen Ekimae</a>
+    </h3>
+    <p>5-13-7 Kenkyugakuen, Tsukuba, Ibaraki 305-0817, Japan</p>
+    <p>Toyoko Inn Kenkyu-gakuen Ekimae is one of the recommended hotels, conveniently located approximately 300 meters (about a 4-minute walk) from Kenkyugakuen Station on the Tsukuba Express Line, which is one stop from Tsukuba Station.</p>
+  </div>
+  <div style="width: 50%; box-sizing: border-box;">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2164.5204676565154!2d140.08178461531597!3d36.082834011291915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60220b96ba0a315d%3A0x43d58b7c8c6b13e0!2z5p2x5qiqSU5O56CU56m25a2m5ZyS6aeF5YmN!5e0!3m2!1sja!2sjp!4v1749608713862!5m2!1sja!2sjp"
+      width="100%"
+      height="250"
+      style="border:0;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+  </div>
+</div>
+
 
 
 
