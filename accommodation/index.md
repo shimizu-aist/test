@@ -215,4 +215,14 @@ If you have any questions or require further information, please contact the loc
 </div>
 
 
+<!-- Toyoko Inn Moriya Ekimae -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%; gap: 0;">
+  <div style="width: 100%; box-sizing: border-box;">
+    <h3 style="font-size: 1.1em; text-align: left; margin: 0;">
+      <a href="https://www.toyoko-inn.com/eng/search/detail/00189/?utm_source=google&utm_medium=mybusiness&utm_campaign=gt_web189" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: inline;">Toyoko Inn Moriya Ekimae</a>
+    </h3>
+    <p>2-16-9 Chuo, Moriya, Ibaraki 302-0115, Japan</p>
+  </div>
+</div>
+
 
